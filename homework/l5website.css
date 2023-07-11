@@ -13,6 +13,10 @@ ul li{
 span{
     color: yellow;
 }
+body{
+  width: 75%;
+  margin: auto;
+}
 body header div{
     text-align: center;
     border: solid black;
@@ -29,12 +33,12 @@ main h5{
 .flex-container{
     display: flex;
     flex-wrap: wrap;
-    align-items: flex-start;
+    justify-content: center;
+    
    
 }
 .flex-container div{
-    border:1px solid black;
-    width: 18%;
+    width: 15%;
     text-align: center;
     margin: 10px;
    
@@ -45,6 +49,7 @@ img{
 }
 
 footer{
+    padding: 10px;
     border: 2px solid black;
     background-color: black;
 }
