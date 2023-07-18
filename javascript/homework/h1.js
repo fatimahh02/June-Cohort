@@ -12,9 +12,9 @@ console.log(myName)
 
 //combiing 3 different variables
 var a="hello "
-var b="my name is Fatimah"
-var c=" this is my lesson 1 js homework"
-console.log(a+b+c)
+var b=" Fatimah"
+var c="  js homework"
+console.log(a,"my name is" ,b,"this is my lesson 1",c)
 
 //var that contains both numbers and strings
 
