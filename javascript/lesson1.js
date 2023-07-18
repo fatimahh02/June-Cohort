@@ -6,3 +6,4 @@ var myName = "fatimah";
 console.log(myName);
 
 console.log("hello world!")
+
