@@ -3,9 +3,9 @@
   var hero ="superman"
 
   if(hero==="superman"){
-  console.log("DC")
+  console.log(`${hero} is a DC character`)
   }else if(hero==="spiderman"){
-      console.log("Marvel")
+      console.log(`${hero} is a Marvel character`)
  }else{
      console.log("error")
   }
@@ -20,9 +20,8 @@
   }else if (age>=18){
       console.log("optional education")
   }else{
-     ("error")
+    console.log ("error")
   }
-
 
 //Create a shopping list of 5 items. Now make a conditional statement that checks if the list contains 5 items only. if above 5 print out error and if less than 5 print out error. 
 
