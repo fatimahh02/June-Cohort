@@ -1,4 +1,6 @@
+
 //*Given a word check to see if the reverse of the word is correct (i.e is the word a palindrome). Example words;
+
 
 
 
@@ -14,3 +16,5 @@ function farenheittokelvin(num){
 }
 
 farenheittokelvin(1)
+
+//sleep
