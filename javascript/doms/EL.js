@@ -18,4 +18,4 @@ button.addEventListener("click",function(e){
 
 //alert("hello")
 //prompt("how are you today?")
-//h1.innerText = response
+//h1.innerText = response 
